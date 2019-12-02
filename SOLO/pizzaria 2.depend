@@ -1,0 +1,476 @@
+# depslib dependency file v1.0
+1573132522 source:c:\users\leandro\desktop\pizzaria 2\cadastro clientes.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+
+1572835286 source:c:\users\leandro\desktop\pizzaria 2\funçoes.c
+	<windows.h>
+
+1573096395 source:c:\users\leandro\desktop\pizzaria 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cabeçalho.h"
+	<locale.h>
+
+1573097148 c:\users\leandro\desktop\pizzaria 2\cabeçalho.h
+
+1572534600 source:c:\users\leandro\desktop\pizzaria 2\cadastropedidos.c
+	<windows.h>
+	<stdio.h>
+
+1573134009 source:c:\users\leandro\desktop\pizzaria 2\cadastrobebidas.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1572879705 source:c:\users\leandro\desktop\pizzaria 2\cadastroprodutos.c
+	<windows.h>
+	<stdio.h>
+
+1572832334 source:c:\users\leandro\desktop\pizzaria 2\reclamacoes.c
+
+1572879599 source:c:\users\leandro\desktop\pizzaria 2\cadastropizzaiolos.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1572903475 source:c:\users\leandro\desktop\pizzaria 2\cadastrofornecedores.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1572989036 source:c:\users\leandro\desktop\pizzaria 2\cadastropizzas.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1573097149 source:c:\users\leandro\desktop\pizzaria 2\cadastrofuncionarios.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1573597242 source:c:\users\alunos\desktop\pizzaria 2 07-11\cadastrobebidas.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1573602226 source:c:\users\alunos\desktop\pizzaria 2 07-11\cadastrofornecedores.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1573597241 source:c:\users\alunos\desktop\pizzaria 2 07-11\cadastrofuncionarios.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1573602226 source:c:\users\alunos\desktop\pizzaria 2 07-11\cadastropedidos.c
+	<windows.h>
+	<stdio.h>
+
+1573602226 source:c:\users\alunos\desktop\pizzaria 2 07-11\cadastropizzaiolos.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1573602226 source:c:\users\alunos\desktop\pizzaria 2 07-11\cadastropizzas.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1573602226 source:c:\users\alunos\desktop\pizzaria 2 07-11\cadastroprodutos.c
+	<windows.h>
+	<stdio.h>
+
+1573604153 source:c:\users\alunos\desktop\pizzaria 2 07-11\funçoes.c
+	<windows.h>
+
+1573603571 source:c:\users\alunos\desktop\pizzaria 2 07-11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cabeçalho.h"
+	<locale.h>
+
+1573603259 c:\users\alunos\desktop\pizzaria 2 07-11\cabeçalho.h
+
+1573605853 source:c:\users\alunos\desktop\pizzaria 2 07-11\reclamacoes.c
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdio.h>
+
+1573605598 source:c:\users\alunos\desktop\pizzaria 2 07-11\cadastro clientes.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+
+1573999541 source:c:\users\leandro\desktop\pizzaria 2 12-11\cadastro clientes.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+
+1573588306 source:c:\users\leandro\desktop\pizzaria 2 12-11\cadastrobebidas.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1573588308 source:c:\users\leandro\desktop\pizzaria 2 12-11\cadastrofornecedores.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1573588308 source:c:\users\leandro\desktop\pizzaria 2 12-11\cadastrofuncionarios.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1573588308 source:c:\users\leandro\desktop\pizzaria 2 12-11\cadastropedidos.c
+	<windows.h>
+	<stdio.h>
+
+1573588308 source:c:\users\leandro\desktop\pizzaria 2 12-11\cadastropizzaiolos.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1573588308 source:c:\users\leandro\desktop\pizzaria 2 12-11\cadastropizzas.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1574021269 source:c:\users\leandro\desktop\pizzaria 2 12-11\cadastroprodutos.c
+	<windows.h>
+	<stdio.h>
+
+1573588308 source:c:\users\leandro\desktop\pizzaria 2 12-11\funçoes.c
+	<windows.h>
+
+1574005173 source:c:\users\leandro\desktop\pizzaria 2 12-11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cabeçalho.h"
+	<locale.h>
+
+1574000710 c:\users\leandro\desktop\pizzaria 2 12-11\cabeçalho.h
+
+1574034456 source:c:\users\leandro\desktop\pizzaria 2 12-11\reclamacoes.c
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1574002066 source:c:\users\leandro\desktop\pizzaria 2 12-11\estoque.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+
+1574352243 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\cadastro clientes.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+	"cabeçalho.h"
+
+1574359663 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\cadastrobebidas.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574325566 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\cadastrofornecedores.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574325566 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\cadastrofuncionarios.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574021878 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\cadastropedidos.c
+	<windows.h>
+	<stdio.h>
+
+1574325566 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\cadastropizzaiolos.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574325565 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\cadastropizzas.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574325566 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\cadastroprodutos.c
+	<windows.h>
+	<stdio.h>
+	"cabeçalho.h"
+
+1574325566 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\estoque.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574362056 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\funçoes.c
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+	"cabeçalho.h"
+
+1574359191 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cabeçalho.h"
+	<locale.h>
+
+1574360379 c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\cabeçalho.h
+	<conio.h>
+
+1574355826 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\reclamacoes.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+	"cabeçalho.h"
+
+1574362916 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\login.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	<string.h>
+
+1574358594 source:c:\users\vinic\onedrive\Área de trabalho\pimpizzaria\pedidos.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574638043 source:c:\users\leandro\desktop\pimpizzaria\cadastro clientes.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+	"cabeçalho.h"
+
+1574570914 c:\users\leandro\desktop\pimpizzaria\cabeçalho.h
+	<conio.h>
+
+1574638088 source:c:\users\leandro\desktop\pimpizzaria\cadastrobebidas.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+	<string.h>
+
+1574325566 source:c:\users\leandro\desktop\pimpizzaria\cadastrofornecedores.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574528784 source:c:\users\leandro\desktop\pimpizzaria\cadastrofuncionarios.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574021878 source:c:\users\leandro\desktop\pimpizzaria\cadastropedidos.c
+	<windows.h>
+	<stdio.h>
+
+1574325566 source:c:\users\leandro\desktop\pimpizzaria\cadastropizzaiolos.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574325565 source:c:\users\leandro\desktop\pimpizzaria\cadastropizzas.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574552392 source:c:\users\leandro\desktop\pimpizzaria\cadastroprodutos.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+	<string.h>
+
+1574325566 source:c:\users\leandro\desktop\pimpizzaria\estoque.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574637098 source:c:\users\leandro\desktop\pimpizzaria\funçoes.c
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+	"cabeçalho.h"
+
+1574533201 source:c:\users\leandro\desktop\pimpizzaria\login.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	<string.h>
+
+1574559856 source:c:\users\leandro\desktop\pimpizzaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cabeçalho.h"
+	<locale.h>
+
+1574528942 source:c:\users\leandro\desktop\pimpizzaria\pedidos.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574355826 source:c:\users\leandro\desktop\pimpizzaria\reclamacoes.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+	"cabeçalho.h"
+
+1574641069 source:c:\users\leandro\desktop\pimpizzaria\novopedido.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574638043 source:c:\users\leandro\desktop\area de trabalho\solo\cadastro clientes.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+	"cabeçalho.h"
+
+1575243791 c:\users\leandro\desktop\area de trabalho\solo\cabeçalho.h
+	<conio.h>
+
+1575145470 source:c:\users\leandro\desktop\area de trabalho\solo\cadastrobebidas.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+	<string.h>
+
+1574325566 source:c:\users\leandro\desktop\area de trabalho\solo\cadastrofornecedores.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574528784 source:c:\users\leandro\desktop\area de trabalho\solo\cadastrofuncionarios.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1574021878 source:c:\users\leandro\desktop\area de trabalho\solo\cadastropedidos.c
+	<windows.h>
+	<stdio.h>
+
+1575142616 source:c:\users\leandro\desktop\area de trabalho\solo\cadastropizzaiolos.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1575219327 source:c:\users\leandro\desktop\area de trabalho\solo\cadastropizzas.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+	<string.h>
+
+1575142914 source:c:\users\leandro\desktop\area de trabalho\solo\cadastroprodutos.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+	<string.h>
+
+1575215328 source:c:\users\leandro\desktop\area de trabalho\solo\estoque.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1575145267 source:c:\users\leandro\desktop\area de trabalho\solo\funçoes.c
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+	"cabeçalho.h"
+
+1574533201 source:c:\users\leandro\desktop\area de trabalho\solo\login.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	<string.h>
+
+1575243904 source:c:\users\leandro\desktop\area de trabalho\solo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cabeçalho.h"
+	<locale.h>
+
+1574528942 source:c:\users\leandro\desktop\area de trabalho\solo\pedidos.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+
+1575146021 source:c:\users\leandro\desktop\area de trabalho\solo\reclamacoes.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+	"cabeçalho.h"
+
+1575243740 source:c:\users\leandro\desktop\area de trabalho\solo\novopedido.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575144722 source:c:\users\leandro\desktop\area de trabalho\solo\cadastro materia prima.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+	<string.h>
+
+1575246318 source:c:\users\leandro\desktop\area de trabalho\solo\relatorios.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	"cabeçalho.h"
+	<string.h>
+
